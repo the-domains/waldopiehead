@@ -1,0 +1,28 @@
+name: waldopiehead
+favicon: null
+layout_spectrum: 0.1497208010405302
+typography_spectrum: 0.5494347880594432
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.14180833660066128
+  lightness: 0.8038451876491308
+  saturation: 0.14814184210263193
+  rhythmicContrast: 0.04695713799446821
+purpose: []
